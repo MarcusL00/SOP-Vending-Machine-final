@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zbc23mwly\\source\\repos\\VendingMachine\\VendingMachine\\VendingMachine.csproj": {}
+    "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\VendingMachine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zbc23mwly\\source\\repos\\VendingMachine\\VendingMachine\\VendingMachine.csproj": {
+    "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\VendingMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zbc23mwly\\source\\repos\\VendingMachine\\VendingMachine\\VendingMachine.csproj",
+        "projectUniqueName": "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\VendingMachine.csproj",
         "projectName": "VendingMachine",
-        "projectPath": "C:\\Users\\zbc23mwly\\source\\repos\\VendingMachine\\VendingMachine\\VendingMachine.csproj",
-        "packagesPath": "C:\\Users\\zbc23mwly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zbc23mwly\\source\\repos\\VendingMachine\\VendingMachine\\obj\\",
+        "projectPath": "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\VendingMachine.csproj",
+        "packagesPath": "C:\\Users\\zbcyomi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zbc23mwly\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\zbcyomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

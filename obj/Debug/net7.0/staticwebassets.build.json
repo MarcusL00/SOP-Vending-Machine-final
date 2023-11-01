@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f0pnInY0HyUSIK/ZcAFbZhbJZ5z7zxK5nlLJm007cp0=",
+  "Hash": "w8cWECGmefs5vcYCmhRLp+wbkgJ/oco2EC8eu4S3U+M=",
   "Source": "VendingMachine",
   "BasePath": "_content/VendingMachine",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "VendingMachine\\wwwroot",
       "Source": "VendingMachine",
-      "ContentRoot": "C:\\Users\\zbc23mwly\\source\\repos\\VendingMachine\\VendingMachine\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\wwwroot\\",
       "BasePath": "_content/VendingMachine",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\zbc23mwly\\source\\repos\\VendingMachine\\VendingMachine\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\wwwroot\\css\\site.css",
       "SourceId": "VendingMachine",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zbc23mwly\\source\\repos\\VendingMachine\\VendingMachine\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\wwwroot\\",
       "BasePath": "_content/VendingMachine",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
