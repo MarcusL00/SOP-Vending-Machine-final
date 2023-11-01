@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "f0pnInY0HyUSIK/ZcAFbZhbJZ5z7zxK5nlLJm007cp0=",
+  "Source": "VendingMachine",
+  "BasePath": "_content/VendingMachine",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VendingMachine\\wwwroot",
+      "Source": "VendingMachine",
+      "ContentRoot": "C:\\Users\\zbc23mwly\\source\\repos\\VendingMachine\\VendingMachine\\wwwroot\\",
+      "BasePath": "_content/VendingMachine",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\zbc23mwly\\source\\repos\\VendingMachine\\VendingMachine\\wwwroot\\css\\site.css",
+      "SourceId": "VendingMachine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zbc23mwly\\source\\repos\\VendingMachine\\VendingMachine\\wwwroot\\",
+      "BasePath": "_content/VendingMachine",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}
