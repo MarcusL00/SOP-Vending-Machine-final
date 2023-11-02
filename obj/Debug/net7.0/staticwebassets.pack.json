@@ -1,7 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\wwwroot\\css\\site.css",
+      "Id": "B:\\Github\\SOP-Vending-Machine-final\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "B:\\Github\\SOP-Vending-Machine-final\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
