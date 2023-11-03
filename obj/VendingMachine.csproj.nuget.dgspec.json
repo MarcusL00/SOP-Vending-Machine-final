@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Github\\SOP-Vending-Machine-final\\VendingMachine.csproj": {}
+    "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\VendingMachine.csproj": {}
   },
   "projects": {
-    "B:\\Github\\SOP-Vending-Machine-final\\VendingMachine.csproj": {
+    "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\VendingMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Github\\SOP-Vending-Machine-final\\VendingMachine.csproj",
+        "projectUniqueName": "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\VendingMachine.csproj",
         "projectName": "VendingMachine",
-        "projectPath": "B:\\Github\\SOP-Vending-Machine-final\\VendingMachine.csproj",
-        "packagesPath": "C:\\Users\\morka\\.nuget\\packages\\",
-        "outputPath": "B:\\Github\\SOP-Vending-Machine-final\\obj\\",
+        "projectPath": "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\VendingMachine.csproj",
+        "packagesPath": "C:\\Users\\zbcyomi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zbcyomi\\Documents\\GitHub\\SOP-Vending-Machine-final\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\morka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zbcyomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

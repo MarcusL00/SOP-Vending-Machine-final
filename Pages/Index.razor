@@ -13,7 +13,7 @@
 	<script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
 </head>
 
-<body class="font-[Poppins] bg-gradient-to-t from-[#fbc2eb] to-[#a6c1ee] h-screen no-scroll">
+<body class="font-[Poppins] bg-gradient-to-t from-[#fbc2eb] to-[#a6c1ee] h-screen no-scroll" data-te-perfect-scrollbar-init>
 	<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
 	<NavBar />
 	<div class="flex items-start justify-center  m-1 object-top relative">
@@ -59,46 +59,42 @@
 					<div class="bg-gray-600 h-12 flex items-center justify-center rounded-lg">24</div>
 					<div class="bg-lime-600 h-12 flex items-center justify-center rounded-lg">25</div>
 				</div>
-
+				
 			</div>
-				<div class="flex items-center justify-center">
-					<div class="bg-gray-400 h-12 flex items-center justify-center m-3 w-1/4 rounded-lg ">Take your item </div>
+				<div class="flex justify-items-start">
+					<div class="bg-green-400 h-12 flex items-center m-3 w-1/4 rounded-lg ">Take your item </div>
+				</div>
+				<div class="w-64 h-85 bg-gray-200 p-4 rounded-lg justify-self-auto">
+					<div class="grid grid-cols-3 grid-rows-4 gap-4">
+						<!-- Row 1 -->
+						<button class="bg-gray-400 h-12 flex items-center justify-center rounded-lg">1</button>
+						<button class="bg-gray-400 h-12 flex items-center justify-center rounded-lg">2</button>
+						<button class="bg-gray-400 h-12 flex items-center justify-center rounded-lg">3</button>
+
+						<!-- Row 2 -->
+						<button class="bg-gray-400 h-12 flex items-center justify-center rounded-lg">4</button>
+						<button class="bg-gray-400 h-12 flex items-center justify-center rounded-lg">5</button>
+						<button class="bg-gray-400 h-12 flex items-center justify-center rounded-lg">6</button>
+
+						<!-- Row 3 -->
+						<button class="bg-gray-400 h-12 flex items-center justify-center rounded-lg">7</button>
+						<button class="bg-gray-400 h-12 flex items-center justify-center rounded-lg">8</button>
+						<button class="bg-gray-400 h-12 flex items-center justify-center rounded-lg">9</button>
+						<!-- Row 4 -->
+						<button class="bg-red-600 h-12 flex items-center justify-center rounded-lg">Cancel</button>
+						<button class="bg-gray-400 h-12 flex items-center justify-center rounded-lg">0</button>
+						<button class="bg-green-600 h-12 flex items-center justify-center rounded-lg">Ok</button>
+					</div>
 				</div>
 			</div>
 
 			<div class="p-4 bg-[#7d8bad] flex items-start justify-center">
 				<!-- Right section content -->
-				<div class="w-64 h-85 bg-gray-200 p-4 rounded-lg">
-					<div class="grid grid-cols-3 grid-rows-4 gap-4">
-						<!-- Row 1 -->
-						<button class="bg-blue-400 h-12 flex items-center justify-center rounded-lg">1</button>
-						<button class="bg-green-400 h-12 flex items-center justify-center rounded-lg">2</button>
-						<button class="bg-red-400 h-12 flex items-center justify-center rounded-lg">3</button>
-
-						<!-- Row 2 -->
-						<button class="bg-yellow-400 h-12 flex items-center justify-center rounded-lg">4</button>
-						<button class="bg-purple-400 h-12 flex items-center justify-center rounded-lg">5</button>
-						<button class="bg-indigo-400 h-12 flex items-center justify-center rounded-lg">6</button>
-
-						<!-- Row 3 -->
-						<button class="bg-pink-400 h-12 flex items-center justify-center rounded-lg">7</button>
-						<button class="bg-teal-400 h-12 flex items-center justify-center rounded-lg">8</button>
-						<button class="bg-cyan-400 h-12 flex items-center justify-center rounded-lg">9</button>
-						<!-- Row 4 -->
-						<button class="bg-red-400 h-12 flex items-center justify-center rounded-lg">Cancel</button>
-						<button class="bg-teal-400 h-12 flex items-center justify-center rounded-lg">0</button>
-						<button class="bg-green-400 h-12 flex items-center justify-center rounded-lg">Ok</button>
-					</div>
-				</div>
 			</div>
 		</div>
 	</div>
 </body>
 </html>
-
-
-
-
 
 @code
 {
